@@ -20,7 +20,7 @@
   - **Express** (via NestJS)
   - **dotenv** for environment configuration
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ###  Clone the repository
 
